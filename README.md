@@ -1,5 +1,5 @@
 # cat-or-dog_CNN
-This is my assigment laboratory work from DeepLearning.AI course "Convolutional Neural Networks in TensorFlow".
+This is my assignment laboratory work from DeepLearning.AI course "Convolutional Neural Networks in TensorFlow".
 
 The aim of this work is to create model of convolutional neural network which classifies cats and dogs (100/100 grade).
 
