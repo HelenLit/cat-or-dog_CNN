@@ -10,6 +10,8 @@ In this lab I used at the famous [Kaggle Dogs v Cats dataset](https://www.kaggle
 ![image](https://github.com/HelenLit/cat-or-dog_CNN/assets/108334668/8ce2dab3-8e04-4b15-a8ab-3192f3e98073)
 
 # loss: 0.4592 - accuracy: 0.7828 - val_loss: 0.4007 - val_accuracy: 0.8176
+![image](https://github.com/HelenLit/cat-or-dog_CNN/assets/108334668/f3ed0202-01f2-45d9-babd-565e2afa1202)
+
 
 **Images in dataset look like this:**
 
